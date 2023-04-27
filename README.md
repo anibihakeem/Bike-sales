@@ -22,7 +22,9 @@ Age Group and Revenue order tables were created to sort in visuals, these were a
 
 
 ### Visualization
-[Bike Sales report link](https://app.powerbi.com/groups/me/reports/65c9ed68-8ddc-4fb0-bf28-64a4428736b9/ReportSection)
+[Bike Sales report link](https://app.powerbi.com/view?r=eyJrIjoiMjMxNmJkMGMtNGM0Yy00NmE4LWEzOWItN2Y2YWFlY2NjODI2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+![Screenshot (132)](https://user-images.githubusercontent.com/105971924/234899773-8e8aae01-9c32-4f31-acf9-83b053466d74.png)
+
 
 
 ### Task:
